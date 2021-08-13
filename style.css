@@ -140,7 +140,7 @@ button {
 /* Img Bg */
 
 .bg-img {
-  background: url(../img/bg.jpg) center center/cover no-repeat;
+  background: url(./img/bg.jpg) center center/cover no-repeat;
   display: flex;
   align-items: flex-start;
   justify-content: center;
